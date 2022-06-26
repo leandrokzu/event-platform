@@ -1,0 +1,5 @@
+coisas para melhorar o projeto depois:
+
+- responsividade
+- rodapé
+- place holder pra rota event
